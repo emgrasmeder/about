@@ -1,2 +1,2 @@
 # about
-Repository for me to talk about myself?
+Repository for me to talk about myself
