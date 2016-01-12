@@ -43,4 +43,7 @@
 - *B.A. in Philosophy and Religion, James Madison University* (2010)
   -  Two years studying math, two studying philosophy
 
-Languages: English – Native	      German – Advanced Conversational		French, Spanish, Swedish, Hebrew – Basic
+Languages: 
+- Native: English
+- Advanced/Conversational: German
+- Basic: French, Spanish, Swedish, Hebrew
