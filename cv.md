@@ -1,7 +1,7 @@
 # Emma Grasmeder
 #### Data Scientist, Software Developer, Educator
 
-[LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emma_gras)
+[LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emma_gras) | [Speaking Engagements](speaking-engagements.md)
 
 #### Technical Skills
 - Python software development – 4 years
