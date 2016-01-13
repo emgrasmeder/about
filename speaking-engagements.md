@@ -10,6 +10,8 @@
 - Intro to Git (language agnostic, tutorial, lecture)
 - Taking the Long Way into Tech (autobiographical, inspirational)
 - Not Accidentally Being Cruel to Trans People (team development, diversity)
+- Object Oriented Programming with Conways Game of Life (interactive workshop, lecture, tutorial, Python, language agnostic)
+- Test Driven Development with with Conways Game of Life (interactive workshop, lecture, tutorial, Python, language agnostic)
 
 
 
