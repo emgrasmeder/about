@@ -16,11 +16,11 @@
 - Developed REST API and recommendation service in Go for making queries to 2 million product nodes on Neo4j server
   - Makes recommendations based on node relationships and machine learning algorithms with GoML and GoLearn.
 - Mentored and trained data science apprentice from “hello world” to deployment of Flask microservice in 3 months
-  - Microservice determines major colors of products by first identifying and removing anything in the image except clothing 
+  - Microservice determines major colors of products by first identifying and removing anything in the image except clothing
   - Service was version controlled, tested, bench marked for speed, multithreaded, and deployed on Docker
 - Constructed a scalable product recommendation engine using sparse matrices to rapidly calculate the Jaccard similarity coefficient of user purchase histories
   - Originally delivered using Apache Spark
-- Tagged 2,000,000 products with gender, style, and product-type tags
+- Tagged 3,500,000 products with gender, style, and product-type tags
 - Cross validated several multi-label machine learning classifiers using scikit-learn's Pipeline framework
 - Produced training data by finding regex matches to descriptions with highly predictive keywords
 
