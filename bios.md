@@ -1,4 +1,4 @@
-## A collection of biographies from when they've been required of me
+## A collection of short biographies from when they've been required of me
 ###### (I'm amused to see how my description of self changes over time)
 
 
