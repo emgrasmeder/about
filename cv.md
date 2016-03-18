@@ -6,13 +6,18 @@
 #### Technical Skills
 - Python software development – 4 years
 - Go – 0.5 years
+- JavaScript (node) 0.25 years
 - Extraction, transformation, loading, and analysis with pyspark, numpy, pandas, nltk, scikit-learn
 - Visualization and exploratory analysis with matplotlib and ipython notebook
 - Web APIs/services in Go with gorilla/mux (github.com/gorilla/mux) and cq (github.com/go-cq/cq)
 - Technologies: docker, mongo, redis, neo4j
 
 #### Relevant Experience
-*Solebrity, Inc, Chief Data Scientist* (2015 – present)
+
+*Mapbox, Data Witch* (March 2016 - Present)
+- Data and operations, culture, and sorcery. Stay tuned for updates as I get my bearings.
+
+*Solebrity, Inc, Chief Data Scientist* (Jan 2015 – Jan 2016)
 - Developed REST API and recommendation service in Go for making queries to 2 million product nodes on Neo4j server
   - Makes recommendations based on node relationships and machine learning algorithms with GoML and GoLearn.
 - Mentored and trained data science apprentice from “hello world” to deployment of Flask microservice in 3 months
@@ -24,7 +29,7 @@
 - Cross validated several multi-label machine learning classifiers using scikit-learn's Pipeline framework
 - Produced training data by finding regex matches to descriptions with highly predictive keywords
 
-*Women Who Code of Washington DC, Director of Education* 					                       (2015 – present)            
+*Women Who Code of Washington DC, Director of Education* 					                       (2015 – 2016)            
 - Mentored and coordinated team leaders for 5 language learning teams in the Washington DC chapter of Women Who Code
 - Lead the development of customized curricula and events for the Front End, Android, Ruby, Python, and Algorithms groups
 - Created institutions and norms to encourage the retention and involvement of hundreds of active members
