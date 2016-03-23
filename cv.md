@@ -36,7 +36,8 @@
 - Served as a technical and professional mentor to members and leads through conference talks and coffee meetings
 - Acted as a forward facing channel for contacting the collective Women Who Code DC organization and maintaining a social media presence
 
-###### Center for Infrastructure Protection, Research Assistant	             	  			                       (2014 – 2015)
+###### Center for Infrastructure Protection, Research Assistant
+_(2014 – 2015)_
 - Researched cyber security “best practices” under a grant from the U.S. Department of Homeland Security
 - Served as sole liaison between team of three economists, a lawyer, and a policy specialists and a team of twenty industrial-organizational psychologists who specialize in improving managerial practices 
 - Interviewed management level security experts at several large firms and national agencies around the globe
