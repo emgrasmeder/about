@@ -23,3 +23,9 @@
 - 20 July, 2015: Transgender 101 aka Not Accidentally Being Cruel To Trans People - Mountain Justice (conference, lecture)
 - 10 June, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
 - 20 July, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
+
+
+
+#### Talks and Abstracts:
+##### Soft Skills are Hard
+This talk grew out of the frustration and stigma I felt as I prepared myself to give a different talk; one which also had a "non-technical" focus. "I think my topic is really important but I also thing as a techy femme person, I need to be seen giving more technical talks." <record scratch> In the tech industry today, skills and conference talks are overlooked and undervalued when they focus on things like interpersonal communication, justice in hiring, ethics in general, emotional sustainability in the workplace, and anything else firmly outside the realm of either hardware or software techniques. The bias favoring "hard skills" and "technical" talks holds "non-technical" skills as somehow less important and less difficult, even as so much team/company dysfunction is the result of deficiency in non-technical realms. This talk explores this tech/non-tech dichotomy, why it's faulty, and why the audience's social engineering skills are actually as important as their software engineering skills. 
