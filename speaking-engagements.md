@@ -9,7 +9,7 @@
 - Intro to Python (tutorial, lecture, Python)
 - Intro to Git (language agnostic, tutorial, lecture)
 - Taking the Long Way into Tech (autobiographical, inspirational)
-- Not Accidentally Being Cruel to Trans People (team development, diversity)
+- Not Accidentally Being Shitty to Trans People (team development, diversity)
 - Object Oriented Programming with Conways Game of Life (interactive workshop, lecture, tutorial, Python, language agnostic)
 - Test Driven Development with with Conways Game of Life (interactive workshop, lecture, tutorial, Python, language agnostic)
 
@@ -20,7 +20,7 @@
 - 16 Sept, 2015: [Introduction to Data Science Tools with Python](https://github.com/emmagras/datascience-pres) - Women Who Code DC (meetup, lecture)
 - 10 May, 2015: Finding Your Own Way to Greatness - Mother-Daughter Hack Day (conference, lecture)
 - 10 May, 2015: [Making an Interactive Cookbook with Python](https://github.com/emmagras/recipe-recs/blob/master/recipe_recommender.py) - Mother-Daughter Hack Day (conference, lecture)
-- 20 July, 2015: Transgender 101 aka Not Accidentally Being Cruel To Trans People - Mountain Justice (conference, lecture)
+- 20 July, 2015: Transgender 101 aka Not Accidentally Being Shitty To Trans People - Mountain Justice (conference, lecture)
 - 10 June, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
 - 20 July, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
 
