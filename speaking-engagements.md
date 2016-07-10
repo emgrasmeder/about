@@ -15,7 +15,9 @@
 
 
 
+
 #### Past Engagements
+- 9 July, 2016 [Philosophies of Open Source](http://mapscamp.io/#schedule) - Maps Camp (conference, panel)
 - 7 Jan, 2016: [How To Punch Impostor Syndrome in the Face](https://youtu.be/Vgoh8Kv8r7U) - Women Who Code DC (meetup, lecture)
 - 16 Sept, 2015: [Introduction to Data Science Tools with Python](https://github.com/emmagras/datascience-pres) - Women Who Code DC (meetup, lecture)
 - 10 May, 2015: Finding Your Own Way to Greatness - Mother-Daughter Hack Day (conference, lecture)
