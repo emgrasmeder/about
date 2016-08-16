@@ -8,3 +8,6 @@ Emma's official job title is "Data Witch," but there's more to them than spellcr
 ### Lesbians Who Tech NYC, 2016
 Emma Grasmeder 
 Emma is an archetypal Gemini with a passion for petting puppies, taking long walks in the rain, and questioning the status quo.
+
+### Code Newbies, 2016
+Emma Grasmeder is the former Director of Education for Women Who Code: DC, the resident data witch at Mapbox, and the to-be Director of Lesbians Who Tech: Berlin. Before any of that they were a grad school flunkie, an au pair, and a near college drop out before they graduated with a degree in religious studies. Emma spends free time strumming a banjo, reading about Judaism, and considering the day when robots revolt against their programmers. 
