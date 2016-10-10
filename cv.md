@@ -6,7 +6,7 @@
 #### Technical Skills
 - Python software development – 4 years
 - Go – 0.5 years
-- JavaScript (node) 0.25 years
+- JavaScript (node) 0.75 years
 - Extraction, transformation, loading, and analysis with pyspark, numpy, pandas, nltk, scikit-learn
 - Visualization and exploratory analysis with matplotlib and ipython notebook
 - Web APIs/services in Go with gorilla/mux (github.com/gorilla/mux) and cq (github.com/go-cq/cq)
