@@ -1,21 +1,23 @@
 # Emma Grasmeder
-#### Data Scientist, Software Developer, Educator
+#### Code, Math, Teaching, Witchcraft
 
 [LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emma_gras) | [Speaking Engagements](speaking-engagements.md)
 
 #### Technical Skills
 - Python software development – 4 years
 - Go – 0.5 years
-- JavaScript (node) 0.75 years
+- JavaScript (node) 1 year
 - Extraction, transformation, loading, and analysis with pyspark, numpy, pandas, nltk, scikit-learn
 - Visualization and exploratory analysis with matplotlib and ipython notebook
 - Web APIs/services in Go with gorilla/mux (github.com/gorilla/mux) and cq (github.com/go-cq/cq)
-- Technologies: docker, mongo, redis, neo4j
+- Technologies: aws, docker, mongo, redis, neo4j
 
 #### Relevant Experience
 
 ###### Mapbox, Data Witch* (March 2016 - Present)
-- Data and operations, culture, and sorcery. Stay tuned for updates as I get my bearings.
+- Backend engineer on the Mapbox telemetry team
+- Identified movement pattens from millions of miles of telemetry data (in GeoJSON format) at a time
+
 
 ###### Solebrity, Inc, Chief Data Scientist (Jan 2015 – Jan 2016)
 - Developed REST API and recommendation service in Go for making queries to 2 million product nodes on Neo4j server
