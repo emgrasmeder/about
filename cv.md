@@ -7,6 +7,7 @@
 - Python software development – 4 years
 - Go – 0.5 years
 - JavaScript (node) 1 year
+- Bash - 0.5 years
 - Extraction, transformation, loading, and analysis with pyspark, numpy, pandas, nltk, scikit-learn
 - Visualization and exploratory analysis with matplotlib and ipython notebook
 - Web APIs/services in Go with gorilla/mux (github.com/gorilla/mux) and cq (github.com/go-cq/cq)
@@ -14,10 +15,14 @@
 
 #### Relevant Experience
 
-###### Mapbox, Data Witch* (March 2016 - Present)
-- Backend engineer on the Mapbox telemetry team
-- Identified movement pattens from millions of miles of telemetry data (in GeoJSON format) at a time
-
+###### Mapbox, Data Witch (March 2016 - November 2016)
+- Measured street traffic patterns based on millions of miles of telemetry data (in GeoJSON format)
+- Maintained intersection analysis suite, a custom map-reduce algorithm to accumulate and analyze driver's behavior specifically driving through intersections
+- Created statistics libraries to measure confidence for samples of data
+  - https://github.com/mapbox/sample-sizer
+  - https://github.com/mapbox/stats-online
+- Made feature-engineering decisions for the company's `modality` filter, a neural net designed to identify GeoJSON linestrings from _walking_, _driving_, or _biking_ traffic.
+- Managed Amazon EC2 cluster to run analysis on the planet's road network, triggered by a Cron job and a AWS Lambda
 
 ###### Solebrity, Inc, Chief Data Scientist (Jan 2015 – Jan 2016)
 - Developed REST API and recommendation service in Go for making queries to 2 million product nodes on Neo4j server
