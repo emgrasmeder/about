@@ -17,7 +17,7 @@
 
 ##### Mapbox, Data Witch (March 2016 - November 2016)
 - Measured street traffic patterns based on millions of miles of telemetry data (in GeoJSON format)
-- Maintained intersection analysis suite, a custom map-reduce algorithm to accumulate and analyze driver's behavior specifically driving through intersections
+- Maintained road intersection analysis suite, a custom map-reduce algorithm to accumulate and analyze behavior of cars maneuvering through intersections
 - Created statistics libraries to measure confidence for samples of data
   - https://github.com/mapbox/sample-sizer
   - https://github.com/mapbox/stats-online
