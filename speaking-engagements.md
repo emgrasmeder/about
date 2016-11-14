@@ -2,7 +2,7 @@
 (See also: https://github.com/emmagras/presentations)
 
 #### Past Engagements
-- 06 November, 2016: Sex, Love, Desire, and the Law: A conversation with students of Richmond University (panelist)
+- 06 November, 2016: Sex, Love, Desire, and the Law: A conversation with students of Richmond University (panelist, speaking from experiences as a trans woman and survivor of intimate partner abuse)
 - 08 October, 2016: [Math is Useful, I Swear!](https://github.com/emmagras/presentations/blob/master/math-is-useful-i-swear.md) - [Mapbox MiniConf](https://miniconfmapbox.splashthat.com/)
 - 23 September, 2015: [No Gods, No Managers: How Anarchist Principles Can Make Your Office and Open Source Project Better](https://www.dropbox.com/s/zup9p2kqy96mrnr/anarchy-in-the-office.pdf?dl=0) - [Lesbians Who Tech](http://lesbianswhotech.org/speakers/emma-grasmeder/)
 - 20 August, 2016: [Test Driven Development 101](https://github.com/emmagras/presentations/blob/master/tdd101.md) - [Code Newbies DC](http://www.meetup.com/CodeNewbie-DC/events/232956866/)
