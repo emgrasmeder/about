@@ -40,18 +40,12 @@
 - Mentored and coordinated team leaders for 5 language learning teams in the Washington DC chapter of Women Who Code
 - Lead the development of customized curricula and events for the Front End, Android, Ruby, Python, and Algorithms groups
 - Created institutions and norms to encourage the retention and involvement of hundreds of active members
-- Served as a technical and professional mentor to members and leads through conference talks and coffee meetings
+- Served as a technical and professional mentor to members and leads through classes, conference talks, and coffee meetings
 - Acted as a forward facing channel for contacting the collective Women Who Code DC organization and maintaining a social media presence
-
-##### Center for Infrastructure Protection, Research Assistant (2014 – 2015)
-- Researched cyber security “best practices” under a grant from the U.S. Department of Homeland Security
-- Served as sole liaison between team of three economists, a lawyer, and a policy specialists and a team of twenty industrial-organizational psychologists who specialize in improving managerial practices 
-- Interviewed management level security experts at several large firms and national agencies around the globe
-- Drafted designs for a virtual world experiment to analyze team dynamics and to provide empirical evidence supporting the literature
 
 #### Education
 - *Ph.D. coursework in Economics, George Mason University* (2012 - 2014)
-	- Emphasis on experimental and behavioral economics, econometrics, decision theory, and information economics
+  - Emphasis on experimental and behavioral economics, statistical programming, decision theory, and information economics
 - *B.A. in Philosophy and Religion, James Madison University* (2010)
   -  Two years studying math, two studying philosophy
 
