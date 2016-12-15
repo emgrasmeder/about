@@ -32,7 +32,7 @@
   - Service was version controlled, tested, bench marked for speed, multithreaded, and deployed on Docker
 - Constructed a scalable product recommendation engine using sparse matrices to rapidly calculate the Jaccard similarity coefficient of user purchase histories
   - Originally delivered using Apache Spark
-- Tagged 3,500,000 products with gender, style, and product-type tags
+- Tagged 3,500,000 products with gender, style, and product-type tags with natural language processing
 - Cross validated several multi-label machine learning classifiers using scikit-learn's Pipeline framework
 - Produced training data by finding regex matches to descriptions with highly predictive keywords
 
