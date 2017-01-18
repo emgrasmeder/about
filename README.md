@@ -12,6 +12,6 @@ I spent three years failing out of a PhD program in economics. I'm proud of this
 
 My research position in grad school required me to develop software in Python for 20 hours, learn statistics for another 20 hours a week, and work on a lot of other projects in another 30 hours during those weeks! Now I'm comfortable using Golang, Python, Node, or Bash to write test and data driven code and services. 
 
-I've held Data Science positions in a couple startups, most recently at [Mapbox](https://github.com/mapbox) on their telemetry team. I'm currently looking to focus either more directly in machine learning / statistical programming, or start interfacing with humans more as a developer advocate. I have a proclivity for communicating technical subjects and finding common ground with people, and an intense love of math.
+I've held Data Science positions in a couple startups, most recently at [Mapbox](https://github.com/mapbox) on their telemetry team. I'm currently looking to focus either more directly in machine learning / statistical programming, or start interfacing with humans more as a developer advocate or teacher. I have a proclivity for communicating technical subjects and finding common ground with people, and an intense love of math.
 
 I have a love of travelling, and chances are, wherever you are, we could find time to meet for soup or coffee sometime in the future!
