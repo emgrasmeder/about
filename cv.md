@@ -1,7 +1,7 @@
 # Emma Grasmeder
 #### Code, Math, Teaching, Witchcraft
 
-[Personal Statement](https://github.com/emmagras/about/blob/master/README.md) | [LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emma_gras) | [Speaking Engagements](speaking-engagements.md)
+[Personal Statement](https://github.com/emmagras/about/blob/master/README.md) | [LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emilyagras) | [Speaking Engagements](speaking-engagements.md)
 
 ###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://gitprint.com/emmagras/about/blob/mapbox/cv.md))
 
