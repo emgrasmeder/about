@@ -1,5 +1,5 @@
 ### Invite me to talk or lead a workshop at your conference or meetup!
-(See also: https://github.com/emmagras/presentations)
+(See also: https://github.com/emilyagras/presentations)
 
 #### Past Engagements
 - 06 November, 2016: Sex, Love, Desire, and the Law: A conversation with students of Richmond University (panelist, speaking from experiences as a trans woman and survivor of intimate partner abuse)
