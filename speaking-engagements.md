@@ -2,6 +2,8 @@
 (See also: https://github.com/emilyagras/presentations)
 
 #### Past Engagements
+- 06 February, 2018: A Hands-On Introduction to Your First Data Science Project (2 hour workshop)
+- 28 January, 2018: [A Hands-On Introduction to Your First Data Science Project (5 hour workshop)](https://www.meetup.com/Lesbians-Who-Tech-Berlin/events/246750974/)
 - 06 November, 2016: Sex, Love, Desire, and the Law: A conversation with students of Richmond University (panelist, speaking from experiences as a trans woman and survivor of intimate partner abuse)
 - 08 October, 2016: [Math is Useful, I Swear!](https://github.com/emmagras/presentations/blob/master/math-is-useful-i-swear.md) - [Mapbox MiniConf](https://miniconfmapbox.splashthat.com/)
 - 23 September, 2015: [No Gods, No Managers: How Anarchist Principles Can Make Your Office and Open Source Project Better](https://www.dropbox.com/s/zup9p2kqy96mrnr/anarchy-in-the-office.pdf?dl=0) - [Lesbians Who Tech](http://lesbianswhotech.org/speakers/emma-grasmeder/)
