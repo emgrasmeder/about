@@ -3,19 +3,26 @@
 
 [Personal Statement](https://github.com/emmagras/about/blob/master/README.md) | [LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emilyagras) | [Speaking Engagements](speaking-engagements.md)
 
-###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://gitprint.com/emmagras/about/blob/mapbox/cv.md))
+###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://github.com/emilyagras/about/blob/master/cv.md))
 
 #### Technical Skills
-- Python software development – 4 years
-- Go – 0.5 years
-- JavaScript (node) 1 year
-- Bash - 0.5 years
-- Extraction, transformation, loading, and analysis with pyspark, numpy, pandas, nltk, scikit-learn
-- Visualization and exploratory analysis with matplotlib and ipython notebook
-- Web APIs/services in Go with gorilla/mux (github.com/gorilla/mux) and cq (github.com/go-cq/cq)
-- Technologies: aws, docker, mongo, redis, neo4j
+- Python software development – 5 years
+- Go – 1 year
+- JavaScript (React, node) 2 years
+- Bash - 2 years
+- Clojure - 1 year
+- Data analysis and engineering with pyspark, numpy, pandas, nltk, scikit-learn
+- Web APIs/services in Go and Clojure
+- Technologies: AWS, OpenShift, docker, MongoDB, PostgreSQL, Redis, Neo4j
 
 #### Relevant Experience
+
+##### ThoughtWorks, Code Witch (April 2017 - Present)
+- "Full Stack" software developer and consultant on a multi-team project with a micro-frontend architecture
+- Maintain Clojure backends and React frontends
+- Encourage security practices and conversations as the project's Security Champion
+  - Act as the go-to developer for GDPR compliance transition process
+
 
 ##### Mapbox, Data Witch (March 2016 - November 2016)
 - Measured street traffic patterns based on millions of miles of telemetry data (in GeoJSON format)
