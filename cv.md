@@ -1,9 +1,5 @@
 # Emma Grasmeder
-#### Code, Math, Teaching, Witchcraft
-
-[Personal Statement](https://github.com/emmagras/about/blob/master/README.md) | [LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emilyagras) | [Speaking Engagements](speaking-engagements.md)
-
-###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://gitprint.com/emmagras/about/blob/mapbox/cv.md))
+##### Code, Math, Teaching
 
 #### Technical Skills
 - Python software development – 4 years
@@ -17,7 +13,7 @@
 
 #### Relevant Experience
 
-##### Mapbox, Data Witch (March 2016 - November 2016)
+##### Mapbox, Data Engineer (March 2016 - November 2016)
 - Measured street traffic patterns based on millions of miles of telemetry data (in GeoJSON format)
 - Maintained road intersection analysis suite, a custom map-reduce algorithm to accumulate and analyze behavior of cars maneuvering through intersections
 - Created statistics libraries to measure confidence for samples of data
