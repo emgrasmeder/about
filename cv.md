@@ -62,4 +62,4 @@
 ##### Languages: 
 - Native: English
 - Advanced/Conversational: German
-- Basic: French, Spanish, Swedish, Hebrew
+- Basic: French, Spanish, Hebrew
