@@ -22,6 +22,7 @@
 - Maintain Clojure backends and React frontends
 - Encourage security practices and conversations as the project's Security Champion
   - Act as the go-to developer for GDPR compliance transition process
+- Lead trainings for data science skills, including internal trainings and workshops at conferences
 
 
 ##### Mapbox, Data Witch (March 2016 - November 2016)
