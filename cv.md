@@ -19,7 +19,7 @@
 
 ##### ThoughtWorks, Code Witch (April 2017 - Present)
 - "Full Stack" software developer and consultant on a multi-team project with a micro-frontend architecture
-- Maintain Clojure backends and React frontends
+- Maintain Clojure backends and React frontends, and infrastructure on OpenShift
 - Encourage security practices and conversations as the project's Security Champion
   - Act as the go-to developer for GDPR compliance transition process
 - Lead trainings for data science skills, including internal trainings and workshops at conferences
