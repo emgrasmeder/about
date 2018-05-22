@@ -1,7 +1,8 @@
 ### Invite me to talk or lead a workshop at your conference or meetup!
 (See also: https://github.com/emilyagras/presentations)
 
-#### Past Engagements
+#### Engagements
+- 27 June, 2018: [A Hands-On Introduction to Your First Data Science Project](https://www.tdwi-konferenz.de/tdwi2018/programm/konferenzprogramm/sprecher-detail/emma-grasmeder.html) - TDWI Conference, Munich (3 hour workshop)
 - 06 February, 2018: A Hands-On Introduction to Your First Data Science Project - OOP Conference, Munich (2 hour workshop)
 - 28 January, 2018: [A Hands-On Introduction to Your First Data Science Project - Lesbians Who Tech: Berlin (5 hour workshop)](https://www.meetup.com/Lesbians-Who-Tech-Berlin/events/246750974/)
 - 07 October, 2017: Being Your Own Hype Squad - Clojure Bridge, Berlin (Lightning Talk)
