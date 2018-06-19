@@ -14,3 +14,6 @@ Emma Grasmeder is the former Director of Education for Women Who Code: DC, the r
 
 ### OOP, 2017
 Emma Grasmeder is the Data Witch of ThoughtWorks Germany, where she enjoys automating infrastructure, advocating for better security practices, writing well tested software, and nurturing growing data scientists and software developers. Formerly an experimental economist, she taught herself to code in graduate school and now spends much of her time thinking about agent based models, genetic programming, the universal basic income, and teaching a broad spectrum of software topics.
+
+### XConf, 2018
+Emma Grasmeder is the Data Witch of ThoughtWorks Germany. Aside from writing code and uttering incantations, Emma spends time playing a banjo, organizing events for the Berlin Lesbians Who Tech chapter, and falling off a skateboard. Formerly an experimental economist, Emma is a self-taught software developer and is especially interested in agent based models, genetic programming, and the ethical challenges presented by capitalism to the field of data science.
