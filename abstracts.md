@@ -1,4 +1,11 @@
 ## Talks and Abstracts:
+
+### Thinking Like a Data Scientist
+The field of data science is having an identity crisis. The fundamental question of who or what a data scientist actually is, remains largely undecided. Regardless of where the answer will fall, there are a number of tools and techniques that every data scientist should have in their toolbelt. Although the software languages, frameworks, and algorithms will come in and out of fashion, the fundamentals behind the trade of data science, which we talk about in this session, have existed for centuries and will continue to be used for ages to come.
+
+### A Hands on Introduction to your First Data Science Project
+We’ve created a playground data science application that’s ready for you to jump in to. It uses real data, an industry-standard toolset, and addresses a typical machine learning task. We will run you through the workflow and lifecycle of the data science application, and you’ll spend most of the session experimenting and improving the machine learning model.
+
 ### Soft Skills are Hard
 This talk grew out of the frustration and stigma I felt as I prepared to give a different talk; one which also had a "non-technical" focus. _"I think my topic is really important but I also think as a techy femme person, I need to be seen giving more technical talks,"_ I said to myself. But wait a minute! In the tech industry today, skills and conference talks are overlooked and undervalued when they focus on things like interpersonal communication, justice in hiring, ethics in general, emotional sustainability in the workplace, and anything else firmly outside the realm of either hardware or software techniques. The bias favoring "hard skills" and "technical" talks holds "non-technical" skills as somehow less important and less difficult, even as so much team/company dysfunction is the result of deficiency in non-technical realms. This talk explores this tech/non-tech dichotomy, why it's faulty, and why the audience's social engineering skills are as important as their software engineering skills, if not moreso. My goal is to inspire people such that they're ready to demand respect for their social proficiencies in their office, at conferences, and in their lives.
 
