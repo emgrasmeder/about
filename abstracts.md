@@ -1,5 +1,13 @@
 ## Talks and Abstracts:
 
+
+### Continuous Intelligence: Leveraging Data Science with Continuous Delivery
+When it comes to working with data, we rarely know beforehand the right way to derive insights and extract value. Often, it is impossible to know exactly what can be done with data until we start exploring it. This makes it difficult to set expectations and goals for a data-intensive project. These challenges are made even more complex when data scientists don’t control or have access to data sources, or when the shape and content of the data changes over time.
+As a result, code and architectural decisions can become chaotic, ad-hoc, and difficult-to-maintain. Data scientists tend to be set to the side without a real plan to integrate their efforts with the rest of the business or other software developers. The science part of data science seems to get in the way of using trusted best practices from the software industry. 
+But it doesn’t have to be this way.
+In this talk, we’ll cover the differences between traditional software development and development for data intensive products. I’ll give an overview of data collection, pipeline engineering, data exploration, and productionization of machine learning algorithms. While doing so, I’ll discuss what makes data products different, and talk about tools and rituals that organizations and teams can adopt to address the specific difficulties in data oriented projects. 
+Properly applied, these practices improve alignment between data scientists, developers, and stakeholders, and improve the speed of development, quality, and maintainability of the product.
+
 ### Thinking Like a Data Scientist
 The field of data science is having an identity crisis. The fundamental question of who or what a data scientist actually is, remains largely undecided. Regardless of where the answer will fall, there are a number of tools and techniques that every data scientist should have in their toolbelt. Although the software languages, frameworks, and algorithms will come in and out of fashion, the fundamentals behind the trade of data science, which we talk about in this session, have existed for centuries and will continue to be used for ages to come.
 
