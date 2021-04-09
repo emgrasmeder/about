@@ -3,7 +3,7 @@
 
 [Twitter](https://twitter.com/emgrasmeder) | [Speaking Engagements](speaking-engagements.md)
 
-###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://github.com/emilyagras/about/blob/master/cv.md))
+###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://gitprint.com/emgrasmeder/about/blob/master/cv.md))
 
 I'm a functional programming enthusiast with a background in data science. I'm currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. 
 #### Tech Stuff I'm Proficient in
