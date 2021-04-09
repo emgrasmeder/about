@@ -1,23 +1,24 @@
 # Emma Grasmeder
-#### Code, Math, Teaching, Witchcraft
+#### Code and Witchcraft
 
-[Personal Statement](https://github.com/emmagras/about/blob/master/README.md) | [LinkedIn](https://linkedin.com/in/emmagras)  | [Twitter](https://twitter.com/emilyagras) | [Speaking Engagements](speaking-engagements.md)
+[Twitter](https://twitter.com/emgrasmeder) | [Speaking Engagements](speaking-engagements.md)
 
 ###### (note: this, like any GitHub .md file can be [turned into a pdf by replacing github.com in the url with gitprint.com](https://github.com/emilyagras/about/blob/master/cv.md))
 
-#### Technical Skills
-- Python software development – 5 years
-- Go – 1 year
-- JavaScript (React, node) 2 years
-- Bash - 2 years
-- Clojure - 1 year
-- Data analysis and engineering with pyspark, numpy, pandas, nltk, scikit-learn
-- Web APIs/services in Go and Clojure
-- Technologies: AWS, OpenShift, docker, MongoDB, PostgreSQL, Redis, Neo4j
+I'm a functional programming enthusiast with a background in data science. I'm currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. 
+#### Tech Stuff I'm Proficient in
+- Clojure
+- Python (Data Science and backend web dev stuff) 
+- JavaScript (React, Redux, Node, also some data science)
+- Bash (I actually really like Bash for some reason)
+- AWS, Azure
+
+I've also done Golang, Kotlin, and Scala at work but less of it
 
 #### Relevant Experience
 
 ##### ThoughtWorks, Code Witch (April 2017 - Present)
+- Tech Lead on multiple accounts, working with various technologies
 - "Full Stack" software developer and consultant on a multi-team project with a micro-frontend architecture
 - Maintain Clojure backends and React frontends, and infrastructure on OpenShift
 - Encourage security practices and conversations as the project's Security Champion
