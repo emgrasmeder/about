@@ -2,6 +2,8 @@
 (See also: https://github.com/emilyagras/presentations)
 
 #### Engagements
+- June 7th 2019: [Continuous Intelligence: Leveraging Data Science with Continuous Delivery](https://myconnector.ro/speaker/devtalks-bucharest-2019/91/958) - DevTalks, Bucharest 
+- May 16th 2019: Continuous Intelligence: Leveraging Data Science with Continuous Delivery - DevTalks, Cluj-Napoca
 - 27 June, 2018: [A Hands-On Introduction to Your First Data Science Project](https://www.tdwi-konferenz.de/tdwi2018/programm/konferenzprogramm/sprecher-detail/emma-grasmeder.html) - TDWI Conference, Munich (3 hour workshop)
 - 06 February, 2018: A Hands-On Introduction to Your First Data Science Project - OOP Conference, Munich (2 hour workshop)
 - 28 January, 2018: [A Hands-On Introduction to Your First Data Science Project - Lesbians Who Tech: Berlin (5 hour workshop)](https://www.meetup.com/Lesbians-Who-Tech-Berlin/events/246750974/)
