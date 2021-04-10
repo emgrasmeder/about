@@ -3,21 +3,46 @@
 
 [Twitter](https://twitter.com/emgrasmeder) | [Speaking Engagements](speaking-engagements.md)
 
-I'm a functional programming enthusiast with a background in data science. I'm currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team, on through the management structure. 
+I'm a functional programming enthusiast with a background in data science, currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
+
+#### Tech Lead, Chemical Production
+This client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way. 
+ - Technical lead of a small team of developers who had little experience with data pipelines. 
+- Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
+- Consulted stakeholders on different tech visions for various levels of financial investment moving forward.
+###### Core technologies involved: Python, Javascript + TypeScript, Azure
 
 
-Em was the tech lead for a cross-functional team of developers who came together with the goal of creating a cloud solution suitable for analyzing millions of records of data from moving trains all around the world. Emphasizing the principles of consensus, collaboration, and personal autonomy, Em's leadership helped turn a group of people, most of whom had never written code professionally, into a team full of effective, confident, and capable developers. In addition to pushing the team to develop quickly and comprehensively, Em was in frequent contact with members in the client C-suite to make recommendations regarding business direction and forging new communication patterns within the organization.
-Core technologies involved: Clojure, Javascript, React, AWS, MySQL
-Developer, Automotive 
+#### Tech Lead, Retail - Logistics
+The goal of this project was to convert a complicated and outdated system of emails and Excel tables into an automated, tested, validated data pipeline in 3 months, with a team of 4.
+- Technical lead of a small team of developers who had little experience with data pipelines. 
+- Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
+- Consulted stakeholders on different tech visions for various levels of financial investment moving forward.
+###### Core technologies involved: Python, pandas, pandera
 
-Em worked as part of a ThoughtWorks team to build a new Point of Sales system for retailers in Germany. This involved integrating with various backend systems, and integrating the work of multiple project teams into a seamless web application while maintaining team independence. Em worked as a Full Stack developer on a distributed team with a micro-frontend architecture. Em's focus outside of standard delivery was on GDPR compliance and the general cybersecurity landscape of the product. 
-Core technologies involved: Clojure, Javascript, React + Redux, Openshift, MySQL
-Data Scientist, ThoughtWorks Data Tech Lab 
 
-The objective of the project was to get a better understanding of the differences between software development and data science projects regarding ThoughtWorks' core practices. The task was to forecast demand for two weeks for about 4,000 items in 50 stores of an Ecuadorian grocery chain, using 4.5 years of historical data. We applied the following machine learning models and evaluated them:
- Moving averages as our baseline model, Tree-based models (random forest), Time Series Forecasting with "Prophet", Gradient Boosting Machines, Recurrent Neural Networks (LSTM Network), Ensemble Approach of different models. 
-In the project, we published a tutorial on Github which enables developers to kick start the data science and data engineering work on a project. This work has been used as the basis for internal recruitment, and external hackathon and trainings. 
-Core technologies involved: Python, Jupyter Notebook, Keras (based on Tensorflow), Spark, AWS
+### Experience 
+#### Tech Lead, Railway Industry
+The client hired us to create a product vision and prototype with which they could test the market and see if further investment in a new business model would be worth while. 
+- Technical lead for a cross-functional team of developers who came together with the goal of creating a cloud solution suitable for analyzing millions of records of data from moving trains all around the world.
+- Emphasis on the principles of consensus, collaboration, and personal autonomy.
+- Collaborated with C-Suite in product vision and customer strategy. Pushed through the inception and development of an MVP which is currently running in trains for several customers.   
+- Led a team of 5, most of whom had never written code professionally, into a team full of effective, confident, and capable developers.
+###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
+
+#### Developer, Automotive 
+- Fullstack developer on several teams for the same automotive client, working to build a new Point of Sales system for retailers in Germany. 
+- Core contributor for several micro-frontend and micro-backend services.
+- Heavy emphasis on core functionalities as well as development of contract tests, integration tests, functional tests, and maintenance of the CI/CD pipelines and the 3 deployment environments. 
+- Served as security champion for the account for 2 years, inlcuding overseeing a transition to GDPR compliance as the new laws came out.
+###### Core technologies involved: Clojure, Javascript, React + Redux, Openshift, PostgreSQL
+
+#### Data Scientist, ThoughtWorks Data Tech Lab 
+The objective of the project was to get a better understanding of the differences between software development and data science projects regarding ThoughtWorks' core practices. The task was to forecast demand for two weeks for about 4,000 items in 50 stores of an Ecuadorian grocery chain, using 4.5 years of historical data. - We applied the following machine learning models and evaluated them:
+  - Moving averages as our baseline model, Tree-based models (random forest), Time Series Forecasting with "Prophet", Gradient Boosting Machines, Recurrent Neural Networks (LSTM Network), Ensemble Approach of different models. 
+- Published a tutorial on Github which enables developers to kick start the data science and data engineering work on a project. 
+- This work has been used as the basis for internal recruitment, hackathons, trainings, and conference talks
+###### Core technologies involved: Python, Jupyter Notebook, Keras (based on Tensorflow), Spark, AWS
 
 
 #### Tech Stuff I'm Proficient in
