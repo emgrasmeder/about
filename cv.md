@@ -5,8 +5,8 @@
 
 I'm a functional programming enthusiast with a background in data science, currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
 
-### Relevant Experience
-#### Tech Lead/Principal, Chemical Production Company (November 2020-Present)
+## Relevant Experience
+### Tech Lead/Principal, Chemical Production Company (November 2020-Present)
 Overview: The client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way.
 
 Core Responsibilities:
@@ -22,7 +22,7 @@ Interesting Challenges:
 ###### Core technologies involved: Python, Javascript + TypeScript, Azure
 
 
-#### Tech Lead, Retail - Logistics (August 2020 - October 2020)
+### Tech Lead, Retail - Logistics (August 2020 - October 2020)
 The goal of this project was to convert a complicated and outdated system of emails and Excel tables into an automated, tested, validated data pipeline in 3 months, with a team of 4.
 - Technical lead of a small team of developers who had little experience with data pipelines. 
 - Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
@@ -30,7 +30,7 @@ The goal of this project was to convert a complicated and outdated system of ema
 ###### Most Interesting Challenges
 ###### Core technologies involved: Python, pandas, pandera
 
-#### Tech Lead, Railway Industry (May 2019 - March 2020)
+### Tech Lead, Railway Industry (May 2019 - March 2020)
 The client hired us to create a product vision and prototype with which they could test the market and see if further investment in a new business model would be worth while. 
 - Technical lead for a cross-functional team of developers who came together with the goal of creating a cloud solution suitable for analyzing millions of records of data from moving trains all around the world.
 - Emphasis on the principles of consensus, collaboration, and personal autonomy.
@@ -38,14 +38,14 @@ The client hired us to create a product vision and prototype with which they cou
 - Led a team of 5, most of whom had never written code professionally, into a team full of effective, confident, and capable developers.
 ###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
 
-#### Developer, Automotive (April 2017 - April 2019)
+### Developer, Automotive (April 2017 - April 2019)
 - Fullstack developer on several teams for the same automotive client, working to build a new Point of Sales system for retailers in Germany. 
 - Core contributor for several micro-frontend and micro-backend services.
 - Heavy emphasis on core functionalities as well as development of contract tests, integration tests, functional tests, and maintenance of the CI/CD pipelines and the 3 deployment environments. 
 - Served as security champion for the account for 2 years, inlcuding overseeing a transition to GDPR compliance as the new laws came out.
 ###### Core technologies involved: Clojure, Javascript, React + Redux, Openshift, PostgreSQL
 
-#### Data Scientist, ThoughtWorks Data Tech Lab 
+### Data Scientist, ThoughtWorks Data Tech Lab 
 The objective of the project was to get a better understanding of the differences between software development and data science projects regarding ThoughtWorks' core practices. The task was to forecast demand for two weeks for about 4,000 items in 50 stores of an Ecuadorian grocery chain, using 4.5 years of historical data. - We applied the following machine learning models and evaluated them:
   - Moving averages as our baseline model, Tree-based models (random forest), Time Series Forecasting with "Prophet", Gradient Boosting Machines, Recurrent Neural Networks (LSTM Network), Ensemble Approach of different models. 
 - Published a tutorial on Github which enables developers to kick start the data science and data engineering work on a project. 
@@ -53,7 +53,7 @@ The objective of the project was to get a better understanding of the difference
 ###### Core technologies involved: Python, Jupyter Notebook, Keras (based on Tensorflow), Spark, AWS
 
 
-#### Tech Stuff I'm Proficient in
+### Tech Stuff I'm Proficient in
 - Clojure
 - Python (Data Science and backend web dev stuff) 
 - JavaScript (React, Redux, Node, also some data science)
@@ -64,7 +64,7 @@ I've also done Golang, Kotlin, and Scala at work but less of it
 
 #### Relevant Experience
 
-##### ThoughtWorks, Code Witch (April 2017 - Present)
+#### ThoughtWorks, Code Witch (April 2017 - Present)
 - Tech Lead on multiple accounts, working with various technologies
 - "Full Stack" software developer and consultant on a multi-team project with a micro-frontend architecture
 - Maintain Clojure backends and React frontends, and infrastructure on OpenShift
@@ -73,7 +73,7 @@ I've also done Golang, Kotlin, and Scala at work but less of it
 - Lead trainings for data science skills, including internal trainings and workshops at conferences
 
 
-##### Mapbox, Data Witch (March 2016 - November 2016)
+#### Mapbox, Data Witch (March 2016 - November 2016)
 - Measured street traffic patterns based on millions of miles of telemetry data (in GeoJSON format)
 - Maintained road intersection analysis suite, a custom map-reduce algorithm to accumulate and analyze behavior of cars maneuvering through intersections
 - Created statistics libraries to measure confidence for samples of data
