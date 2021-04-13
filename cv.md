@@ -5,24 +5,32 @@
 
 I'm a functional programming enthusiast with a background in data science, currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
 
-#### Tech Lead, Chemical Production
-This client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way. 
- - Technical lead of a small team of developers who had little experience with data pipelines. 
+### Relevant Experience
+#### Tech Lead/Principal, Chemical Production Company (November 2020-Present)
+Overview: The client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way.
+
+Core Responsibilities:
+- Introduce and cultivate an agile mindset for a diverse team of infrastructure engineers, data scientists, and fullstack developers
+- Draft product 
 - Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
 - Consulted stakeholders on different tech visions for various levels of financial investment moving forward.
+
+Interesting Challenges:
+- Developing a tech vision for such a large company that's ready to invest in cutting edge practices
+- Bridging the communication gap between research scientists and infrastructure engineers
+- Architecting a solution for versioning data science models, versioning multiple data sources, and making insights of the models accessible
 ###### Core technologies involved: Python, Javascript + TypeScript, Azure
 
 
-#### Tech Lead, Retail - Logistics
+#### Tech Lead, Retail - Logistics (August 2020 - October 2020)
 The goal of this project was to convert a complicated and outdated system of emails and Excel tables into an automated, tested, validated data pipeline in 3 months, with a team of 4.
 - Technical lead of a small team of developers who had little experience with data pipelines. 
 - Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
 - Consulted stakeholders on different tech visions for various levels of financial investment moving forward.
+###### Most Interesting Challenges
 ###### Core technologies involved: Python, pandas, pandera
 
-
-### Experience 
-#### Tech Lead, Railway Industry
+#### Tech Lead, Railway Industry (May 2019 - March 2020)
 The client hired us to create a product vision and prototype with which they could test the market and see if further investment in a new business model would be worth while. 
 - Technical lead for a cross-functional team of developers who came together with the goal of creating a cloud solution suitable for analyzing millions of records of data from moving trains all around the world.
 - Emphasis on the principles of consensus, collaboration, and personal autonomy.
@@ -30,7 +38,7 @@ The client hired us to create a product vision and prototype with which they cou
 - Led a team of 5, most of whom had never written code professionally, into a team full of effective, confident, and capable developers.
 ###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
 
-#### Developer, Automotive 
+#### Developer, Automotive (April 2017 - April 2019)
 - Fullstack developer on several teams for the same automotive client, working to build a new Point of Sales system for retailers in Germany. 
 - Core contributor for several micro-frontend and micro-backend services.
 - Heavy emphasis on core functionalities as well as development of contract tests, integration tests, functional tests, and maintenance of the CI/CD pipelines and the 3 deployment environments. 
