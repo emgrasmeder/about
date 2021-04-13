@@ -11,9 +11,11 @@ Overview: The client hired us to develop a workflow which enabled their data sci
 
 Core Responsibilities:
 - Introduce and cultivate an agile mindset for a diverse team of infrastructure engineers, data scientists, and fullstack developers
-- Draft product 
-- Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
-- Consulted stakeholders on different tech visions for various levels of financial investment moving forward.
+- Contribue code to (TypeScript) front end
+- Develop data visualizations for data models
+- Improving infrastructure through Helm Charts or Azure Pipeline definitions
+- Define, prioritize, and plan work for the team
+- Develop automatic pipeline for training, versioning, and deploying data science models from any number of data scientists at the company
 
 Interesting Challenges:
 - Developing a tech vision for such a large company that's ready to invest in cutting edge practices
