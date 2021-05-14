@@ -3,13 +3,12 @@
 
 [Twitter](https://twitter.com/emgrasmeder) | [Speaking Engagements](speaking-engagements.md)
 
-I'm a functional programming enthusiast with a background in data science, currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
+I'm a functional programming enthusiast with a background in data science, currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision, but happiest writing code all day. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
 
-Whether in a position of leadership or not, I try to approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?", "who isn't being heard?", "how can we make this better for everyone?"
-
+Whether in a position of leadership or not, I try to approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
 
 ## Relevant Experience
-### Tech Lead/Principal, Chemical Production Company (November 2020-Present)
+### Technical Lead/Tech Principal, Chemical Production Company (November 2020-Present)
 Overview: The client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way.
 
 Core Responsibilities:
@@ -21,26 +20,37 @@ Core Responsibilities:
 - Develop automatic pipeline for training, versioning, and deploying data science models from any number of data scientists at the company
 
 Interesting Challenges:
-- Developing a tech vision for such a large company that's ready to invest in cutting edge practices
+- Developing a technical vision within a large company that's ready to invest in modernization
 - Bridging the communication gap between research scientists and infrastructure engineers
-- Architecting a solution for versioning data science models, versioning multiple data sources, and making insights of the models accessible
+- Architecting a solution for versioning data science models, versioning multiple data sources, and making insights of the models accessible and data readily available
 ###### Core technologies involved: Python, Javascript + TypeScript, Azure
 
 
-### Tech Lead, Retail - Logistics (August 2020 - October 2020)
-The goal of this project was to convert a complicated and outdated system of emails and Excel tables into an automated, tested, validated data pipeline in 3 months, with a team of 4.
-- Technical lead of a small team of developers who had little experience with data pipelines. 
-- Converted the delivery and warehouse logistics system into a fully automated pipeline which cut processing time from days to minutes. 
-- Consulted stakeholders on different tech visions for various levels of financial investment moving forward.
-###### Most Interesting Challenges
-###### Core technologies involved: Python, pandas, pandera
+### Technical Lead, Retail - Logistics (August 2020 - October 2020)
+Overview: The goal of this project was to convert a complicated and outdated system of emails and Excel tables into an automated, tested, validated data pipeline in 3 months, with a team of 4.
 
-### Tech Lead, Railway Industry (May 2019 - March 2020)
-The client hired us to create a product vision and prototype with which they could test the market and see if further investment in a new business model would be worth while. 
-- Technical lead for a cross-functional team of developers who came together with the goal of creating a cloud solution suitable for analyzing millions of records of data from moving trains all around the world.
-- Emphasis on the principles of consensus, collaboration, and personal autonomy.
-- Collaborated with C-Suite in product vision and customer strategy. Pushed through the inception and development of an MVP which is currently running in trains for several customers.   
-- Led a team of 5, most of whom had never written code professionally, into a team full of effective, confident, and capable developers.
+Core Responsibilities: 
+- Identify critical workflows to automate, understand business context, and produce sustainable but minimal working product
+- Onboard 3 team members to exploratory data analysis, feature engineering, and data transformations with an eye on testing and performance 
+- Consulting stakeholders on future planning, coming up with different roadmaps depending on what funding becomes available 
+Interesting Challenges:
+- Having 3 months from inception to product delivery handover of a production system
+- Applying functional programming paradigms to data processing workflow
+
+###### Core technologies involved: Python, pandas
+
+### Technical Lead, Railway Industry (May 2019 - March 2020)
+Overview: The client hired us to design a product, prototype it, and find a market for the product in an experiment to find new business models for the company.
+
+Core Responsibilities:
+- Develop a cloud solution suitable for analyzing millions of records of data from moving trains all around the world
+- Design railway-certifiable hardware (i.e. the "black box" for a train) which uploads train sensor data under conditions of uncertain internet connectivity. (Where losing or leaking a single data point could likely result in legal consequenes)
+- Collaborated with C-Suite in product and customer strategy. The product my team designed is currently running in trains for several customers
+- Train the team of 5, most of whom had never written code professionally, into a team full of effective, confident, and capable developers.
+Interesting Challenges:
+- Stakeholder management of an hundred year old hardware company, working regularly with sales, hardware development teams, and the CEO and CTO. 
+- Designing a product while prototyping, gathering customer feedback, and generally bringing a product to market
+
 ###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
 
 ### Developer, Automotive (April 2017 - April 2019)
@@ -49,14 +59,6 @@ The client hired us to create a product vision and prototype with which they cou
 - Heavy emphasis on core functionalities as well as development of contract tests, integration tests, functional tests, and maintenance of the CI/CD pipelines and the 3 deployment environments. 
 - Served as security champion for the account for 2 years, inlcuding overseeing a transition to GDPR compliance as the new laws came out.
 ###### Core technologies involved: Clojure, Javascript, React + Redux, Openshift, PostgreSQL
-
-### Data Scientist, ThoughtWorks Data Tech Lab 
-The objective of the project was to get a better understanding of the differences between software development and data science projects regarding ThoughtWorks' core practices. The task was to forecast demand for two weeks for about 4,000 items in 50 stores of an Ecuadorian grocery chain, using 4.5 years of historical data. - We applied the following machine learning models and evaluated them:
-  - Moving averages as our baseline model, Tree-based models (random forest), Time Series Forecasting with "Prophet", Gradient Boosting Machines, Recurrent Neural Networks (LSTM Network), Ensemble Approach of different models. 
-- Published a tutorial on Github which enables developers to kick start the data science and data engineering work on a project. 
-- This work has been used as the basis for internal recruitment, hackathons, trainings, and conference talks
-###### Core technologies involved: Python, Jupyter Notebook, Keras (based on Tensorflow), Spark, AWS
-
 
 ### Tech Stuff I'm Proficient in
 - Clojure
