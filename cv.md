@@ -36,7 +36,6 @@ Core Responsibilities:
 Interesting Challenges:
 - Having 3 months from inception to product delivery handover of a production system
 - Applying functional programming paradigms to data processing workflow
-
 ###### Core technologies involved: Python, pandas
 
 ### Technical Lead, Railway Industry (May 2019 - March 2020)
@@ -50,14 +49,17 @@ Core Responsibilities:
 Interesting Challenges:
 - Stakeholder management of an hundred year old hardware company, working regularly with sales, hardware development teams, and the CEO and CTO. 
 - Designing a product while prototyping, gathering customer feedback, and generally bringing a product to market
-
 ###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
 
 ### Developer, Automotive (April 2017 - April 2019)
-- Fullstack developer on several teams for the same automotive client, working to build a new Point of Sales system for retailers in Germany. 
-- Core contributor for several micro-frontend and micro-backend services.
+Overview: We had a large contract for building an app to help car salespeople make sales from on the lot. We build everything from the payment process to the car configuration. 
+Core Responsibilities:
+- Fullstack developer on several teams for the same product, core contributor for several micro-frontend and micro-backend services.
 - Heavy emphasis on core functionalities as well as development of contract tests, integration tests, functional tests, and maintenance of the CI/CD pipelines and the 3 deployment environments. 
-- Served as security champion for the account for 2 years, inlcuding overseeing a transition to GDPR compliance as the new laws came out.
+- Served as security champion for the account for 2 years, inlcuding overseeing a transition to GDPR compliance as the new laws came out
+Interesting Challenges:
+- Onboarding new team members every few months, and even once a whole new team
+- Coordinating safe/reliable deployment of multiple services
 ###### Core technologies involved: Clojure, Javascript, React + Redux, Openshift, PostgreSQL
 
 ### Tech Stuff I'm Proficient in
