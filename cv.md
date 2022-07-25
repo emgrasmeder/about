@@ -1,14 +1,29 @@
 # Emma Grasmeder
 #### Code and Witchcraft
 
-[Twitter](https://twitter.com/emgrasmeder) | [Speaking Engagements](speaking-engagements.md)
+[Speaking Engagements](speaking-engagements.md)
 
-I'm a functional programming enthusiast with a background in data science, currently advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision, but happiest writing code all day. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
+I'm a functional programming enthusiast with a background in data science. I'm currently spending my days thinking about genetic programming, multi-agent simulations, and fixing up a rusty old boat while I look for jobs who have raised more funding money than my last engagement. Before that, I was a consultant advising clients on how to do Continuous Delivery for Machine Learning and Scientific Computing use cases. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision, but happiest writing code all day. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
 
 Whether in a position of leadership or not, I try to approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
 
 ## Relevant Experience
-### Technical Lead/Tech Principal, Chemical Production Company (November 2020-Present)
+### Software Developer, WeFarm - Agriculture E-Commerce Platform (May 2022-July 2022)
+Overview: Transition from legacy system to modern system without interruption of hundreds of regular daily active users workflow. 
+
+Core Responsibilities:
+- Shut down the convoluted spreadsheet based workflow for store management
+- Plan and execute gradual changes that allowed for continuous integration of newly developed backend system
+- Build alternative workflows for test users to interact with, allowing for simultaneous use of two workflows on two systems
+- Code review, planning, prioritization with the rest of this fast moving team
+
+Interesting Challenges:
+- Learning ClojureScript on the go
+- Building a new living system inside / behind the old system. We needed to continue writing to the old system for the entirety of the project for accounting reasons, and the new system could only be fully relied upon after the entire transition was ready to go.
+###### Core technologies involved: Clojure, ClojureScript
+
+
+### Technical Lead/Tech Principal, Chemical Production Company (November 2020-September 2021)
 Overview: The client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way.
 
 Core Responsibilities:
