@@ -23,7 +23,7 @@ Interesting Challenges:
 ###### Core technologies involved: Clojure, ClojureScript
 
 
-### Technical Lead/Tech Principal, Chemical Production Company (November 2020-September 2021)
+### Technical Lead/Tech Principal, ThoughtWorks - Chemical Production Company (November 2020-September 2021)
 Overview: The client hired us to develop a workflow which enabled their data scientists to track and version their data, code, and models in a comprehensive way.
 
 Core Responsibilities:
@@ -41,7 +41,7 @@ Interesting Challenges:
 ###### Core technologies involved: Python, Javascript + TypeScript, Azure
 
 
-### Technical Lead, Retail - Logistics (August 2020 - October 2020)
+### Technical Lead, ThoughtWorks - Retail and Logistics (August 2020 - October 2020)
 Overview: The goal of this project was to convert a complicated and outdated system of emails and Excel tables into an automated, tested, validated data pipeline in 3 months, with a team of 4.
 
 Core Responsibilities: 
@@ -53,7 +53,7 @@ Interesting Challenges:
 - Applying functional programming paradigms to data processing workflow
 ###### Core technologies involved: Python, pandas
 
-### Technical Lead, Railway Industry (May 2019 - March 2020)
+### Technical Lead, ThoughtWorks - Railway Industry (May 2019 - March 2020)
 Overview: The client hired us to design a product, prototype it, and find a market for the product in an experiment to find new business models for the company.
 
 Core Responsibilities:
@@ -66,7 +66,7 @@ Interesting Challenges:
 - Designing a product while prototyping, gathering customer feedback, and generally bringing a product to market
 ###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
 
-### Developer, Automotive (April 2017 - April 2019)
+### Developer, ThoughtWorks - Automotive (April 2017 - April 2019)
 Overview: We had a large contract for building an app to help car salespeople make sales from on the lot. We build everything from the payment process to the car configuration. 
 Core Responsibilities:
 - Fullstack developer on several teams for the same product, core contributor for several micro-frontend and micro-backend services.
