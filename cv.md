@@ -99,6 +99,7 @@ Interesting Challenges:
 - Python (Data Science and backend web dev stuff) 
 - JavaScript (React, Redux, Node, also some data science)
 - Bash (I actually really like Bash for some reason)
+- C#
 - AWS, Azure
 
 
@@ -111,4 +112,4 @@ Interesting Challenges:
 ##### Languages: 
 - Native: English
 - Advanced/Conversational: German
-- Basic: French, Spanish, Hebrew
+- Basic: Spanish, Hebrew
