@@ -8,6 +8,23 @@ I'm a functional programming enthusiast with a background in data science. I'm c
 Whether in a position of leadership or not, I try to approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
 
 ## Relevant Experience
+### Software Developer, StackOverflow - Teams Product (October 2022-May 2023)
+Overview: Develop features in to support StackOverflow for Teams users to create, find, and collaborate on content
+
+Core Responsibilities:
+- Develop frontend and backend systems that build on top of 10+ year old legacy systems which service 100+ million visitors per month
+- Write code in a modular fashion to extend the capabilities in a large code monolith
+- Code review, planning, prioritization with the rest of this fast moving team
+- Work with Product Managers to understand and prioritize tech debt and remove unnecessary work from the backlog in order to move more quickly
+
+Interesting Challenges:
+- Finally learning Object Oriented Programming
+- Working on a 14 year old code base
+- Developing in a monolith to be deployed on premise
+- Supporting 100+ million visitors each month.
+###### Core technologies involved: C#, .NET, Microsoft SQL Server, Playwright
+
+
 ### Software Developer, WeFarm - Agriculture E-Commerce Platform (May 2022-July 2022)
 Overview: Transition from legacy system to modern system without interruption of hundreds of regular daily active users workflow. 
 
