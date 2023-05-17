@@ -94,6 +94,30 @@ Interesting Challenges:
 - Coordinating safe/reliable deployment of multiple services
 ###### Core technologies involved: Clojure, Javascript, React + Redux, Openshift, PostgreSQL
 
+### Mapbox, Data Scientist (March 2016 - November 2016)
+Overview: I worked as a data scientist on the data-operations team aiming to predict travel tims for cars, bikes, and pedestrians traveling all around the world
+- Measured street traffic patterns based on millions of miles of telemetry data (in GeoJSON format)
+- Maintained road intersection analysis suite, a custom map-reduce algorithm to accumulate and analyze behavior of cars maneuvering through intersections
+- Created statistics libraries to measure confidence for samples of data
+        https://github.com/mapbox/sample-sizer
+        https://github.com/mapbox/stats-online
+- Made feature-engineering decisions for the company's modality filter, a neural net designed to identify GeoJSON linestrings from walking, driving, or biking traffic.
+- Managed Amazon EC2 cluster to run analysis on the planet's road network, triggered by a Cron job and a AWS Lambda
+
+### Solebrity, Inc, Chief Data Scientist (Jan 2015 – Jan 2016)
+Overview: I was the chief architect and data lead for a budding start up, working with Natural Language Processing (NLP) and recommendation engines to match customers with needs
+- Developed REST API and recommendation service in Go for making queries to 2 million product nodes on Neo4j server
+    - Makes recommendations based on node relationships and machine learning algorithms with GoML and GoLearn.
+- Mentored and trained data science apprentice from “hello world” to deployment of Flask microservice in 3 months
+    - Microservice determines major colors of products by first identifying and removing anything in the image except clothing
+    - Service was version controlled, tested, bench marked for speed, multithreaded, and deployed on Docker
+- Constructed a scalable product recommendation engine using sparse matrices to rapidly calculate the Jaccard similarity coefficient of user purchase histories
+    - Originally delivered using Apache Spark
+- Tagged 3,500,000 products with gender, style, and product-type tags
+- Cross validated several multi-label machine learning classifiers using scikit-learn's Pipeline framework
+- Produced training data by finding regex matches to descriptions with highly predictive keywords
+
+
 ### Tech Stuff I'm Proficient in
 - Clojure
 - Python (Data Science and backend web dev stuff) 
