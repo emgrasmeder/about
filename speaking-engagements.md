@@ -3,6 +3,7 @@
 
 #### Engagements
 - July 3, 2020: [It's Different With Data - Em Grasmeder and Martin Fowler ](https://www.youtube.com/watch?v=uvu3XyXU5p8) - XConf 2020, Distributed (Keynote Talk)
+- Nob 4, 2019: [Thinking Like A Data Scientist](https://www.youtube.com/watch?v=TrOBMJOh7Vw) - Lambda World 2019, Keynote Talk
 - June 7th 2019: [Continuous Intelligence: Leveraging Data Science with Continuous Delivery](https://myconnector.ro/speaker/devtalks-bucharest-2019/91/958) - DevTalks, Bucharest 
 - May 16th 2019: Continuous Intelligence: Leveraging Data Science with Continuous Delivery - DevTalks, Cluj-Napoca
 - 27 June, 2018: [A Hands-On Introduction to Your First Data Science Project](https://www.tdwi-konferenz.de/tdwi2018/programm/konferenzprogramm/sprecher-detail/emma-grasmeder.html) - TDWI Conference, Munich (3 hour workshop)
