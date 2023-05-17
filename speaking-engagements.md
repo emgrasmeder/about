@@ -23,6 +23,7 @@
 - 20 July, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
 
 #### Survey of topics I can talk about
+- Lots of Data Science, especially as it intersects with society and Agile software development
 - Introduction to Test Driven Development (language agnostic, Python, Golang, lecture, interactive workshop)
 - Test Driven Development with Python (Python, lecture, interactive workshop)
 - Punching Impostor Syndrome in the Face (personal/team development, lecture)
