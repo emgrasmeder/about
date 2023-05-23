@@ -1,5 +1,5 @@
 # Emma Grasmeder
-#### Code and Witchcraft
+#### Code Witch
 
 [Speaking Engagements](speaking-engagements.md)
 
