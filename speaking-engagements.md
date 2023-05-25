@@ -2,7 +2,7 @@
 
 #### Engagements
 - July 3, 2020: [It's Different With Data - Em Grasmeder and Martin Fowler ](https://www.youtube.com/watch?v=uvu3XyXU5p8) - XConf, Distributed (Keynote Talk)
-- Nov 4, 2019: [Thinking Like A Data Scientist](https://www.youtube.com/watch?v=TrOBMJOh7Vw) - Lambda World, Keynote Talk
+- Nov 4, 2019: [Thinking Like a Data Scientist](https://www.youtube.com/watch?v=TrOBMJOh7Vw) - Lambda World, Keynote Talk
 - Oct. 25, 2019 [Thinking Like a Data Scientist](https://gotober.com/2019/sessions/1115/thinking-like-a-data-scientist) - GOTO, Berlin
 - June 19th, 2019 [Thinking Like a Data Scientist](https://gotoams.nl/2019/sessions/803/thinking-like-a-data-scientist) - GOTO, Amsterdam
 - June 17th, 2019 [Masterclass: Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery - Em Grasmeder and Emily Gorcenski](https://gotoams.nl/2019/masterclasses/166/continuous-intelligence-data-science-hypothesis-driven-development-and-continuous-delivery) - GOTO Amsterdam
