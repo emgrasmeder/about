@@ -1,10 +1,15 @@
 ### Invite me to talk or lead a workshop at your conference or meetup!
 
 #### Engagements
-- July 3, 2020: [It's Different With Data - Em Grasmeder and Martin Fowler ](https://www.youtube.com/watch?v=uvu3XyXU5p8) - XConf 2020, Distributed (Keynote Talk)
-- Nov 4, 2019: [Thinking Like A Data Scientist](https://www.youtube.com/watch?v=TrOBMJOh7Vw) - Lambda World 2019, Keynote Talk
+- July 3, 2020: [It's Different With Data - Em Grasmeder and Martin Fowler ](https://www.youtube.com/watch?v=uvu3XyXU5p8) - XConf, Distributed (Keynote Talk)
+- Nov 4, 2019: [Thinking Like A Data Scientist](https://www.youtube.com/watch?v=TrOBMJOh7Vw) - Lambda World, Keynote Talk
+- Oct. 25, 2019 [Thinking Like a Data Scientist](https://gotober.com/2019/sessions/1115/thinking-like-a-data-scientist) - GOTO, Berlin
+- June 19th, 2019 [Thinking Like a Data Scientist](https://gotoams.nl/2019/sessions/803/thinking-like-a-data-scientist) - GOTO, Amsterdam
+- June 17th, 2019 [Masterclass: Continuous Intelligence: Data Science, Hypothesis Driven Development, and Continuous Delivery - Em Grasmeder and Emily Gorcenski](https://gotoams.nl/2019/masterclasses/166/continuous-intelligence-data-science-hypothesis-driven-development-and-continuous-delivery) - GOTO Amsterdam
 - June 7th 2019: [Continuous Intelligence: Leveraging Data Science with Continuous Delivery](https://myconnector.ro/speaker/devtalks-bucharest-2019/91/958) - DevTalks, Bucharest 
 - May 16th 2019: Continuous Intelligence: Leveraging Data Science with Continuous Delivery - DevTalks, Cluj-Napoca
+- Oct 11, 2018: [Continuous Intelligence - Emily Gorcenski, Em Grasmeder, Arif Wider, Christoph Windheuser, and Danni Yu] World Summit AI, Amsterdam
+- July 6th, 2018: [A Hands-On Introduction to Your First Data Science Project - Em Grasmeder and Jin Yang](https://pydata.org/berlin2018/schedule/presentation/11/) - PyData, Berlin
 - 27 June, 2018: [A Hands-On Introduction to Your First Data Science Project](https://www.tdwi-konferenz.de/tdwi2018/programm/konferenzprogramm/sprecher-detail/emma-grasmeder.html) - TDWI Conference, Munich (3 hour workshop)
 - 06 February, 2018: A Hands-On Introduction to Your First Data Science Project - OOP Conference, Munich (2 hour workshop)
 - 28 January, 2018: [A Hands-On Introduction to Your First Data Science Project - Lesbians Who Tech: Berlin (5 hour workshop)](https://www.meetup.com/Lesbians-Who-Tech-Berlin/events/246750974/)
@@ -21,17 +26,3 @@
 - 20 July, 2015: Transgender 101 aka Not Accidentally Being Shitty To Trans People - Mountain Justice (conference, lecture)
 - 10 June, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
 - 20 July, 2014: Consent and (Sexual) Violence Prevention - Mountain Justice (conference, interactive workshop)
-
-#### Survey of topics I can talk about
-- Lots of Data Science, especially as it intersects with society and Agile software development
-- Introduction to Test Driven Development (language agnostic, Python, Golang, lecture, interactive workshop)
-- Test Driven Development with Python (Python, lecture, interactive workshop)
-- Punching Impostor Syndrome in the Face (personal/team development, lecture)
-- Consent and (Sexual) Violence Prevention (personal/team development, lecture, diversity)
-- Introduction to Data Science Tools with Python (Python, lecture, interactive workshop, tutorial)
-- Intro to Python (tutorial, lecture, Python)
-- Intro to Git (language agnostic, tutorial, lecture)
-- Taking the Long Way into Tech (autobiographical, inspirational)
-- Not Accidentally Being Shitty to Trans People (team development, diversity)
-- Object Oriented Programming with Conways Game of Life (interactive workshop, lecture, tutorial, Python, language agnostic)
-- Test Driven Development with with Conways Game of Life (interactive workshop, lecture, tutorial, Python, language agnostic)
