@@ -1,5 +1,4 @@
 ### Invite me to talk or lead a workshop at your conference or meetup!
-(See also: https://github.com/emilyagras/presentations)
 
 #### Engagements
 - July 3, 2020: [It's Different With Data - Em Grasmeder and Martin Fowler ](https://www.youtube.com/watch?v=uvu3XyXU5p8) - XConf 2020, Distributed (Keynote Talk)
