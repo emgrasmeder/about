@@ -25,7 +25,7 @@ Interesting Challenges:
 ###### Core technologies involved: C#, .NET, Microsoft SQL Server, Playwright
 
 
-### Software Developer, WeFarm - Agriculture E-Commerce Platform (May 2022-July 2022)
+### Software Developer, WeFarm - Agriculture E-Commerce Platform (April 2022-July 2022)
 Overview: Transition from legacy system to modern system without interruption of hundreds of regular daily active users workflow. 
 
 Core Responsibilities:
