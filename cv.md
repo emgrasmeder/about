@@ -137,3 +137,5 @@ Overview: I was the chief architect and data lead for a budding start up, workin
 - Native: English
 - Advanced/Conversational: German
 - Basic: Spanish, Hebrew
+
+[![Download as PDF](https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=https://github.com/emgrasmeder/about/blob/master/cv.md)
