@@ -21,7 +21,7 @@ Interesting Challenges:
 - First time working on an SRE / Developer Platform role
 - Working to simplify the way we interact with a convoluted Customer data model 
 - Writing new AWS CDK constructs for serverless architecture 
-###### Core technologies involved: Typescript, Kafka, AWS CDK
+###### Core technologies involved: Typescript, Kafka, AWS CDK, Datadog
 
 
 ### Software Developer, StackOverflow - Teams Product (October 2022-May 2023)
