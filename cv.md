@@ -3,11 +3,27 @@
 
 [Speaking Engagements](speaking-engagements.md)
 
-I'm a fullstack developer with a background in data science; my strongest suit is where software engineering and data science meet. It's the craft of it that really motivates me. I love thinking about code abstractions, testability, refactorability, automation... stuff like that, but I especially want to be doing something meaningful for society with my time. Outside of work, I'm spending my days thinking about category theory, phenomenology, game development, daydreaming about how to build a better world, and fixing up a rusty old sailboat. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision. My sweet spot is between code, weighing in on product and prioritization decisions, cultivating healthy team dynamics, and empowering my fellow colleagues - regardless of official role. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
+I'm a fullstack developer with a background in data science; my strongest suit is where software engineering and data science meet. It's the craft of it that really motivates me. I love thinking about code abstractions, testability, refactorability, automation... stuff like that, but I especially want to be doing something meaningful for society with my time. Outside of work, I'm spending my days daydreaming about a better world, and fixing up a rusty old sailboat. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision, but my sweet spot is between: coding, weighing in on product and prioritization decisions, cultivating healthy team dynamics, and empowering my fellow colleagues - regardless of official role. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
 
 Whether in a position of leadership or not, I try to approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
 
 ## Relevant Experience
+
+### Software Developer, zolar GmbH - Internal Developer Platform  (October 2023-Present)
+Overview: Support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
+
+Core Responsibilities:
+- Maintain and extend AWS Infrastructure as Code, delivering new capabilities in the form of library code, documentation, or provided services
+- Build out new GDPR Compliance service, working to simplify and automate a complex and painful manual process
+- On-demand access and permission grants, consultations of infrastructure and security best practices
+
+Interesting Challenges:
+- First time working on an SRE / Developer Platform role
+- Working to simplify the way we interact with a convoluted Customer data model 
+- Writing new AWS CDK constructs for serverless architecture 
+###### Core technologies involved: Typescript, Kafka, AWS CDK
+
+
 ### Software Developer, StackOverflow - Teams Product (October 2022-May 2023)
 Overview: Develop features in to support StackOverflow for Teams users to create, find, and collaborate on content
 
@@ -119,13 +135,12 @@ Overview: I was the chief architect and data lead for a budding start up, workin
 
 
 ### Tech Stuff I'm Proficient in
-- Clojure
 - Python (Data Science and backend web dev stuff) 
-- JavaScript (React, Redux, Node, also some data science)
+- Typescript/Javascript (AWS CDK, React, Redux, Node, also some data science)
 - Bash (I actually really like Bash for some reason)
 - C#
-- AWS, Azure
-
+- AWS
+  
 
 #### Education
 - *Ph.D. coursework in Economics, George Mason University* (2012 - 2014)
