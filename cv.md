@@ -9,10 +9,11 @@ Whether in a position of leadership or not, I try to approach problems the same 
 
 ## Relevant Experience
 
-### Software Developer, zolar GmbH - Internal Developer Platform  (October 2023-Present)
-Overview: Support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
+### Software Developer, zolar GmbH - Software Developer  (October 2023-Present)
+Overview: Develop software, mostly to support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
 
 Core Responsibilities:
+- Develop and maintain serverless web applications written in Typescript, enabled by Kafka and AWS Lambda 
 - Maintain and extend AWS Infrastructure as Code, delivering new capabilities in the form of library code, documentation, or provided services
 - Build out new GDPR Compliance service, working to simplify and automate a complex and painful manual process
 - On-demand access and permission grants, consultations of infrastructure and security best practices
