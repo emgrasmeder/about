@@ -9,7 +9,7 @@ Whether in a position of leadership or not, I try to approach problems the same 
 
 ## Relevant Experience
 
-### Software Developer, zolar GmbH - Software Developer  (October 2023-Present)
+### Software Developer, zolar GmbH - Development Platform Team (October 2023-Present)
 Overview: Develop software, mostly to support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
 
 Core Responsibilities:
@@ -19,7 +19,7 @@ Core Responsibilities:
 - On-demand access and permission grants, consultations of infrastructure and security best practices
 
 Interesting Challenges:
-- First time working on an SRE / Developer Platform role
+- First time working on an SRE / Developer Platform team
 - Working to simplify the way we interact with a convoluted Customer data model 
 - Writing new AWS CDK constructs for serverless architecture 
 ###### Core technologies involved: Typescript, Kafka, AWS CDK, Datadog
