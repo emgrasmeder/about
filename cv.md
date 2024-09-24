@@ -1,7 +1,7 @@
 # Em Grasmeder
 #### Code Witch
 
-[Speaking Engagements](speaking-engagements.md)
+[Speaking Engagements](https://github.com/emgrasmeder/about/blob/master/speaking-engagements.md)
 
 I'm a fullstack developer with a background in data science; my strongest suit is where software engineering and data science meet. It's the craft of it that really motivates me. I love thinking about code abstractions, testability, refactorability, automation... stuff like that, but I especially want to be doing something meaningful for society with my time. Outside of work, I'm spending my days daydreaming about a better world, and fixing up a rusty old sailboat. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision, but my sweet spot is between: coding, weighing in on product and prioritization decisions, cultivating healthy team dynamics, and empowering my fellow colleagues - regardless of official role. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
 
@@ -9,7 +9,7 @@ Whether in a position of leadership or not, I try to approach problems the same 
 
 ## Relevant Experience
 
-### Software Developer, zolar GmbH - Development Platform Team (October 2023-Present)
+### Senior Software Developer, zolar GmbH - Development Platform Team (October 2023-Present)
 Overview: Develop software, mostly to support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
 
 Core Responsibilities:
@@ -42,7 +42,7 @@ Interesting Challenges:
 ###### Core technologies involved: C#, .NET, Microsoft SQL Server, Playwright
 
 
-### Software Developer, WeFarm - Agriculture E-Commerce Platform (April 2022-July 2022)
+### Senior Software Developer, WeFarm - Agriculture E-Commerce Platform (April 2022-July 2022)
 Overview: Transition from legacy system to modern system without interruption of hundreds of regular daily active users workflow. 
 
 Core Responsibilities:
