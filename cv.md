@@ -10,6 +10,20 @@ Whether in a position of leadership or not, I try to approach problems the same 
 
 ## Relevant Experience
 
+### Senior Software Developer, 1Komma5Grad GmbH - Energy Services Team (September 2024-Present)
+Overview: Develop features to provide critical energy usage related services to tens of thousands of customers around europe, including purchasing energy on customer's behalf and coordinating device time of use profiles.
+
+Core Responsibilities:
+- Develop typescript service which processes batch jobs to render energy services for customers 
+- Create extensible and dynamic code base which accomodates changing legal landscape and the ability to onboard new countries quickly
+- Investigate critical issues across the landscape and work with energy infrastructure providers to resolve outages
+
+Interesting Challenges:
+- Providing modular product offerings compatible across across various countries and legal framework
+- Real legal and logistical stakes if our services fail and we can't purchase energy or optimize usage for customers
+###### Core technologies involved: Typescript, NestJS, Prisma
+
+
 ### Senior Software Developer, zolar GmbH - Development Platform Team (October 2023-Present)
 Overview: Develop software, mostly to support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
 
