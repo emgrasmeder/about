@@ -2,11 +2,9 @@
 #### Code Witch
 em@gras.org (+4915234717312)
 
-[Speaking Engagements](https://github.com/emgrasmeder/about/blob/master/speaking-engagements.md)
+I'm a seasoned developer with a background in math and data science; my speciality is growing teams and mentoring less experienced developers in their software skills, their strategic vision and execution, and their collaborative efforts. Maybe you have a team of mostly recent university graduates, or even a team full of PhDs. They're brilliant, but they could use some support getting things production ready or putting it all together. That's the place where I really shine. I've seen a lot of types of teams and companies, and these are my favorite to work with.
 
-I'm a fullstack developer with a background in data science; my strongest suit is where software engineering and data science meet. It's the craft of it that really motivates me. I love thinking about code abstractions, testability, refactorability, automation... stuff like that, but I especially want to be doing something meaningful for society with my time. Outside of work, I'm spending my days daydreaming about a better world, and fixing up a rusty old sailboat. I'm comfortable in the role of technical lead and am drawn towards conversations around business goals and product vision, but my sweet spot is between: coding, weighing in on product and prioritization decisions, cultivating healthy team dynamics, and empowering my fellow colleagues - regardless of official role. I believe that almost all the times when a tech endeavor fails, it's not because the technology was too complicated but because _people are complicated_. I think it's vital to focus on the humans - from the customers to the development team to management structures. 
-
-Whether in a position of leadership or not, I try to approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
+Regardless of team or company, I approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
 
 ## Relevant Experience
 
