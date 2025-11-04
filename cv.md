@@ -2,7 +2,7 @@
 #### Code Witch
 em@gras.org (+4915234717312)
 
-I'm a seasoned developer with a background in math and data science; my speciality is growing teams and mentoring less experienced developers in their software skills, their strategic vision and execution, and their collaborative efforts. Maybe you have a team of mostly recent university graduates, or even a team full of PhDs. They're brilliant, but they could use some support getting things production ready or putting it all together. That's where I come in and thrive.
+I'm a seasoned developer with a background in math and data science; my speciality is growing teams and mentoring developers with various experience levels in their software skills, their strategic vision and execution, and their collaborative efforts. Maybe you have a team of mostly recent university graduates, or even a team full of PhDs. They're brilliant, but they could use some support getting things production ready, putting it all together, or meeting quality and velocity demans. That's where I come in and thrive.
 
 Regardless of team or company, I approach problems the same way: as an anarchist. I believe in the power of consensus, accountability, taking personal responsibility, and asking, "what are the systemic problems?" and "how can we make this better for everyone?"
 
