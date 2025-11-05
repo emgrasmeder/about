@@ -19,10 +19,10 @@ Core Responsibilities:
 Interesting Challenges:
 - Providing modular product offerings compatible across across various countries and legal framework
 - Real legal and logistical stakes if our services fail and we can't purchase energy or optimize usage for customers
-###### Core technologies involved: Typescript, NestJS, Prisma
+###### Core technologies involved: Typescript, NestJS, Prisma, Terraform, Terramate, Google Cloud Platform
 
 
-### Senior Software Developer, zolar GmbH - Development Platform Team (October 2023-Present)
+### Senior Software Developer, zolar GmbH - Development Platform Team (October 2023-September 2024)
 Overview: Develop software, mostly to support and enable zolar developers through tooling, documentation, and direct support to enable rapid deployment and reliability of their tech products
 
 Core Responsibilities:
