@@ -19,7 +19,9 @@ Core Responsibilities:
 Interesting Challenges:
 - Providing modular product offerings compatible across across various countries and legal framework
 - Real legal and logistical stakes if our services fail and we can't purchase energy or optimize usage for customers
+
 ###### Core technologies involved: Typescript, NestJS, Prisma, Terraform, Terramate, Google Cloud Platform
+
 
 
 ### Senior Software Developer, zolar GmbH - Development Platform Team (October 2023-September 2024)
@@ -35,6 +37,7 @@ Interesting Challenges:
 - First time working on an SRE / Developer Platform team
 - Working to simplify the way we interact with a convoluted Customer data model 
 - Writing new AWS CDK constructs for serverless architecture 
+
 ###### Core technologies involved: Typescript, Kafka, AWS CDK, Datadog
 
 
@@ -52,6 +55,7 @@ Interesting Challenges:
 - Working on a 14 year old code base
 - Developing in a monolith to be deployed on premise
 - Supporting 100+ million visitors each month.
+
 ###### Core technologies involved: C#, .NET, Microsoft SQL Server, Playwright
 
 
@@ -67,6 +71,7 @@ Core Responsibilities:
 Interesting Challenges:
 - Learning ClojureScript on the go
 - Building a new living system inside / behind the old system. We needed to continue writing to the old system for the entirety of the project for accounting reasons, and the new system could only be fully relied upon after the entire transition was ready to go.
+
 ###### Core technologies involved: Clojure, ClojureScript
 
 
@@ -85,6 +90,7 @@ Interesting Challenges:
 - Developing a technical vision within a large company that's ready to invest in modernization
 - Bridging the communication gap between research scientists and infrastructure engineers
 - Architecting a solution for versioning data science models, versioning multiple data sources, and making insights of the models accessible and data readily available
+
 ###### Core technologies involved: Python, Javascript + TypeScript, Azure
 
 
@@ -98,6 +104,7 @@ Core Responsibilities:
 Interesting Challenges:
 - Having 3 months from inception to product delivery handover of a production system
 - Applying functional programming paradigms to data processing workflow
+
 ###### Core technologies involved: Python, pandas
 
 ### Technical Lead, ThoughtWorks - Railway Industry (May 2019 - March 2020)
@@ -111,6 +118,7 @@ Core Responsibilities:
 Interesting Challenges:
 - Stakeholder management of an hundred year old hardware company, working regularly with sales, hardware development teams, and the CEO and CTO. 
 - Designing a product while prototyping, gathering customer feedback, and generally bringing a product to market
+
 ###### Core technologies involved: Clojure, Javascript, React, AWS, PostgreSQL
 
 ### Developer, ThoughtWorks - Automotive (April 2017 - April 2019)
@@ -122,6 +130,7 @@ Core Responsibilities:
 Interesting Challenges:
 - Onboarding new team members every few months, and even once a whole new team
 - Coordinating safe/reliable deployment of multiple services
+
 ###### Core technologies involved: Clojure, Javascript, React + Redux, Openshift, PostgreSQL
 
 ### Mapbox, Data Scientist (March 2016 - November 2016)
@@ -166,5 +175,3 @@ Overview: I was the chief architect and data lead for a budding start up, workin
 - Native: English
 - Advanced/Conversational: German
 - Basic: Spanish, Hebrew
-
-[![Download as PDF](https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=https://github.com/emgrasmeder/about/blob/master/cv.md)
